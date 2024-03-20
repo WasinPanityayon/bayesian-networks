@@ -26,3 +26,4 @@ file.png, using (1) simple Bayes net (2) Hidden Markov Model with variable elimi
 The program is called like this:
 __./ocr.py train-image-file.png train-text.txt test-image-file.png__
 
+"# bayesian-networks" 
